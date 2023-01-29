@@ -4,14 +4,6 @@
 
 This project provides a study guide to review the various concepts we learned about in the prework modules. By using HTML, CSS, Git and JavaScript, we created a webpage to test out and explore various functions and methods of web development as well as the strategies and processes behind those methods. Through the project, we learned that a web application is built from many layers, each with their own specific function. We also became familiar with the Git flow and why it is useful as a developer. The project serves as the intial building block of our developer knowledge, and can be used as a reference guide for the future. 
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-
 
 ## Installation
 
